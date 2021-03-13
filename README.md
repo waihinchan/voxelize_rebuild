@@ -1,3 +1,3 @@
 # voxelize_rebuild
 rebuild at unity default render pipeline
-目前只完成了默认渲染管线的ulit版本， 光照版本还需要修复法线方向和阴影模型。
+光照版和非光照版。光照版的自发光问题还未解决（主要是hsv转rgb上）。还有顶点过渡有些问题。
